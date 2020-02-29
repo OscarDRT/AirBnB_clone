@@ -7,9 +7,6 @@ body{
 }
 
 .container{
-    display: flex;
-    margin: auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin: 30px auto;
     max-width: 1000px;
 }
