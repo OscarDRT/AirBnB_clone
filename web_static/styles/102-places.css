@@ -112,6 +112,6 @@ article .reviews li p{
 @media screen and (max-width: 44em) {
     *{width: 100%;}
     footer{text-align: center;}
-    section.filters{width: 95%;}
+    section.filters{width: 95%; margin-left: 2%;}
     .places article .fa, .places article .fas{display: inline;}
 }
